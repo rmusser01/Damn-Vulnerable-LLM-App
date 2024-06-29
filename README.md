@@ -4,7 +4,7 @@ This project is designed for developers and security folk to increase their awar
 
 ### CTF Instructions
 
-1. Fork https://github.com/rmusser01/DamnVulnerableLLMProjectv2
+1. Clone https://github.com/rmusser01/DamnVulnerableLLMProjectv2
 2. FIXME
 3. Run Replit and choose 1 for training and then Enter 3  for CTF Mode
 4. Make console to spill flags and secrets in text and DM me SS on twitter @CoderHarish for verification
