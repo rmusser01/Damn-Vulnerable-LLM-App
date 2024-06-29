@@ -11,6 +11,13 @@ This project is designed for developers and security folk to increase their awar
 5. You can also read Writeup included in bottom for more challenges
 6. You can also check txt files in training folder for flags and secrets strings given that main goal of ctf is prompt injection
 
+https://github.com/whylabs/langkit
+
+
+https://llmsecurity.net/
+https://github.com/whylabs/langkit/blob/main/langkit/docs/modules.md
+https://wiki.offsecml.com/Offensive+ML/Flywheels/Nemesis
+https://doublespeak.chat/#/handbook
 
 
 
@@ -35,16 +42,53 @@ This project is designed for developers and security folk to increase their awar
 
 ### Disclaimer:
 
-This project is meant to be and created as an educational tool and the authors do not condone malicious or illegal actions. Please consult all local laws in your are of operations to ensure that you are in full compliance.
+This project is meant to be and created as an educational tool and the authors do not condone malicious or illegal actions. Please consult all local laws in your area of operations to ensure that you are in full compliance with them.
 
 
 ### Similar Projects/related Materials
 - **Projects**
-	* https://github.com/WithSecureLabs/damn-vulnerable-llm-agent
+	- **Learning**
+		* https://github.com/WithSecureLabs/damn-vulnerable-llm-agent
+	- **General**
+		* https://github.com/meta-llama/PurpleLlama
+	- **Testing**
+		- **Offense**
+		- **Defense**
+		* https://github.com/Giskard-AI/giskard
+		* https://github.com/leondz/garak
+		* https://github.com/mnns/LLMFuzzer
+		* https://github.com/prompt-security/ps-fuzz
+		* https://github.com/Trusted-AI/adversarial-robustness-toolbox
+		* https://github.com/LLMSecurity/HouYi
+		* https://github.com/utkusen/promptmap
+		* https://github.com/safellama/plexiglass
+		* https://github.com/protectai/llm-guard
+		* https://github.com/controllability/jailbreak-evaluation
+		* https://github.com/guardrails-ai/guardrails
+		* https://github.com/deadbits/vigil-llm
+		* https://github.com/NVIDIA/NeMo-Guardrails
+		* https://github.com/protectai/llm-guard
+		* https://github.com/protectai/rebuff
 - **Materials**
 	* https://www.promptingguide.ai/	
 	* https://owasp.org/www-project-top-10-for-large-language-model-applications/
-
+	* https://subhajitsaha.com/blog/ai-hacking-friendly-guide-for-pentesters/
+	* https://github.com/corca-ai/awesome-llm-security
+	* https://github.com/mik0w/pallms
+	* https://github.com/jthack/PIPE
+	- **Papers**
+	* https://arxiv.org/abs/2202.03286
+	* https://arxiv.org/abs/2306.05499
+- **Finetuned Models**
+	- **Programming Language Identification**
+		* https://huggingface.co/huggingface/CodeBERTa-language-id
+	- **Prompt Injection/Jailbreak**
+		* https://huggingface.co/Epivolis/Hyperion
+		* https://huggingface.co/JasperLS/gelectra-base-injection
+		* https://huggingface.co/deepset/deberta-v3-base-injection
+	- **Toxicity**
+		* https://huggingface.co/nicholasKluge/ToxicityModel
+		* https://huggingface.co/martin-ha/toxic-comment-model
 
 ### Credit
 The original repo/idea is: https://github.com/harishsg993010/DamnVulnerableLLMProject
