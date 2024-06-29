@@ -38,6 +38,13 @@ This project is designed for developers and security folk to increase their awar
 This project is meant to be and created as an educational tool and the authors do not condone malicious or illegal actions. Please consult all local laws in your are of operations to ensure that you are in full compliance.
 
 
+### Similar Projects/related Materials
+- **Projects**
+	* https://github.com/WithSecureLabs/damn-vulnerable-llm-agent
+- **Materials**
+	* https://www.promptingguide.ai/	
+	* https://owasp.org/www-project-top-10-for-large-language-model-applications/
+
 
 ### Credit
 The original repo/idea is: https://github.com/harishsg993010/DamnVulnerableLLMProject
