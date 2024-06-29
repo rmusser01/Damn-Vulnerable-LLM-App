@@ -26,10 +26,10 @@ https://doublespeak.chat/#/handbook
 1. FIXME
 
 ### Screenshots
-[![Damn-Vulnerable-Creditcard.png](https://i.postimg.cc/DZX3K70V/Damn-Vulnerable-Creditcard.png)](https://postimg.cc/HcdhwDb3)
+[![Image #1]()]()
 
 
-[![Damnvulnerable-LLM.png](https://i.postimg.cc/FK0xtqvW/Damnvulnerable-LLM.png)](https://postimg.cc/062SDVbD)
+[![Image #2]()]()
 
 
 ### OWASP top 10 LLM Vulnerabilities in this application
