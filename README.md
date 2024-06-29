@@ -1,4 +1,4 @@
-# DamnVulnerableLLMProject v2
+# Damn Vulnerable LLM Project v2
 
 This project is designed for developers and security folk to increase their awareness of vulnerabilities in LLM-backed applications and enhance their LLM hacking skills while doing so. It also acts as a method for companies to learn how to secure their systems against attackers, or how to not design their systems in the first place.
 
