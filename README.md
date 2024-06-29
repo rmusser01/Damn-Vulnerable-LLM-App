@@ -54,6 +54,7 @@ This project is meant to be and created as an educational tool and the authors d
 	- **Testing**
 		- **Offense**
 		- **Defense**
+			* https://github.com/tldrsec/prompt-injection-defenses
 		* https://github.com/Giskard-AI/giskard
 		* https://github.com/leondz/garak
 		* https://github.com/mnns/LLMFuzzer
@@ -70,12 +71,15 @@ This project is meant to be and created as an educational tool and the authors d
 		* https://github.com/protectai/llm-guard
 		* https://github.com/protectai/rebuff
 - **Materials**
-	* https://www.promptingguide.ai/	
+	* https://www.promptingguide.ai/
+	* https://github.com/greshake/llm-security
 	* https://owasp.org/www-project-top-10-for-large-language-model-applications/
 	* https://subhajitsaha.com/blog/ai-hacking-friendly-guide-for-pentesters/
 	* https://github.com/corca-ai/awesome-llm-security
 	* https://github.com/mik0w/pallms
 	* https://github.com/jthack/PIPE
+	- **Jailbreaks**
+		* https://github.com/verazuo/jailbreak_llms
 	- **Papers**
 	* https://arxiv.org/abs/2202.03286
 	* https://arxiv.org/abs/2306.05499
