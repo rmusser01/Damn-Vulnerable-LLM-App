@@ -49,6 +49,7 @@ This project is meant to be and created as an educational tool and the authors d
 - **Projects**
 	- **Learning**
 		* https://github.com/WithSecureLabs/damn-vulnerable-llm-agent
+                * https://github.com/dhammon/ai-goat
 	- **General**
 		* https://github.com/meta-llama/PurpleLlama
 	- **Testing**
