@@ -71,6 +71,7 @@ This project is meant to be and created as an educational tool and the authors d
 		* https://github.com/NVIDIA/NeMo-Guardrails
 		* https://github.com/protectai/llm-guard
 		* https://github.com/protectai/rebuff
+	 	* https://jfrog.com/blog/from-mlops-to-mloops-exposing-the-attack-surface-of-machine-learning-platforms/
 		* https://arxiv.org/abs/2408.09878
   
 - **Materials**
