@@ -71,6 +71,8 @@ This project is meant to be and created as an educational tool and the authors d
 		* https://github.com/NVIDIA/NeMo-Guardrails
 		* https://github.com/protectai/llm-guard
 		* https://github.com/protectai/rebuff
+		* https://arxiv.org/abs/2408.09878
+  
 - **Materials**
 	* https://www.promptingguide.ai/
 	* https://github.com/greshake/llm-security
