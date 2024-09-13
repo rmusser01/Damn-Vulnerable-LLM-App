@@ -13,7 +13,7 @@ This project is designed for developers and security folk to increase their awar
 
 https://github.com/whylabs/langkit
 
-
+https://github.com/NVIDIA/NeMo-Guardrails
 https://llmsecurity.net/
 https://github.com/whylabs/langkit/blob/main/langkit/docs/modules.md
 https://wiki.offsecml.com/Offensive+ML/Flywheels/Nemesis
